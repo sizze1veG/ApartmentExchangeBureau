@@ -1,0 +1,16 @@
+E:\sizze1veG\c++\ApartmentExchangeBureau\ApartmentExchangeBureau\bin\Debug\ApartmentExchangeBureau.exe.config
+E:\sizze1veG\c++\ApartmentExchangeBureau\ApartmentExchangeBureau\bin\Debug\ApartmentExchangeBureau.exe
+E:\sizze1veG\c++\ApartmentExchangeBureau\ApartmentExchangeBureau\bin\Debug\ApartmentExchangeBureau.pdb
+E:\sizze1veG\c++\ApartmentExchangeBureau\ApartmentExchangeBureau\obj\Debug\ApartmentExchangeBureau.csproj.AssemblyReference.cache
+E:\sizze1veG\c++\ApartmentExchangeBureau\ApartmentExchangeBureau\obj\Debug\ApartmentExchangeBureau.csproj.SuggestedBindingRedirects.cache
+E:\sizze1veG\c++\ApartmentExchangeBureau\ApartmentExchangeBureau\obj\Debug\ApartmentExchangeBureau.MainForm.resources
+E:\sizze1veG\c++\ApartmentExchangeBureau\ApartmentExchangeBureau\obj\Debug\ApartmentExchangeBureau.Properties.Resources.resources
+E:\sizze1veG\c++\ApartmentExchangeBureau\ApartmentExchangeBureau\obj\Debug\ApartmentExchangeBureau.csproj.GenerateResource.cache
+E:\sizze1veG\c++\ApartmentExchangeBureau\ApartmentExchangeBureau\obj\Debug\ApartmentExchangeBureau.csproj.CoreCompileInputs.cache
+E:\sizze1veG\c++\ApartmentExchangeBureau\ApartmentExchangeBureau\obj\Debug\ApartmentExchangeBureau.exe
+E:\sizze1veG\c++\ApartmentExchangeBureau\ApartmentExchangeBureau\obj\Debug\ApartmentExchangeBureau.pdb
+E:\sizze1veG\c++\ApartmentExchangeBureau\ApartmentExchangeBureau\obj\Debug\ApartmentExchangeBureau.SituableApartments.resources
+E:\sizze1veG\c++\ApartmentExchangeBureau\ApartmentExchangeBureau\bin\Debug\BouncyCastle.Crypto.dll
+E:\sizze1veG\c++\ApartmentExchangeBureau\ApartmentExchangeBureau\bin\Debug\itextsharp.dll
+E:\sizze1veG\c++\ApartmentExchangeBureau\ApartmentExchangeBureau\bin\Debug\itextsharp.xml
+E:\sizze1veG\c++\ApartmentExchangeBureau\ApartmentExchangeBureau\obj\Debug\ApartmentExchangeBureau.csproj.CopyComplete
